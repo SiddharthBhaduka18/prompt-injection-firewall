@@ -2,9 +2,10 @@
 
 A layered, multimodal firewall that stops direct and indirect prompt injection before it reaches an AI agent, and stops hijacked tool calls before they run. It runs offline and costs nothing; a free-tier LLM judge is optional.
 
-**Problem statement:** Agentic Cybersecurity – Prompt Injection Firewall
-**Self-assessed position:** D3 / F3 (see [9-blocker justification](#9-blocker-justification))
-**Full design:** [ARCHITECTURE.md](ARCHITECTURE.md) · **Measured results:** [evaluation/REPORT.md](evaluation/REPORT.md)
+- **Problem statement:** Agentic Cybersecurity – Prompt Injection Firewall
+- **Self-assessed position:** D3 / F3 (see [9-blocker justification](#9-blocker-justification))
+- **Demo video (3:39):** https://youtu.be/42fg_Fj_Ync
+- **Full design:** [ARCHITECTURE.md](ARCHITECTURE.md) · **Measured results:** [evaluation/REPORT.md](evaluation/REPORT.md)
 
 ## What it does
 
