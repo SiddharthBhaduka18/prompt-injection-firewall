@@ -13,3 +13,5 @@ python-docx
 pytesseract
 pillow
 reportlab
+pytest
+httpx
